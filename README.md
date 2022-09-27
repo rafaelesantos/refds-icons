@@ -1,3 +1,3 @@
-# RefdsIcons
+# Refds Icons
 
-A description of this package.
+> Biblioteca para acessar os SF Symbols disponíveis como enum em vez de strings literais.
