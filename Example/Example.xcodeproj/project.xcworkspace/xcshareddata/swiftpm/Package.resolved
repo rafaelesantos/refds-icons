@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "refds-icons",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rafaelesantos/refds-icons.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "633a105d3ac4c5e75a6a51d4f4c525076e8b1dcb"
+      }
+    },
+    {
+      "identity" : "refds-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rafaelesantos/refds-ui.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "687c3c83939110730039bcb64960ff5ca4bd2c34"
+      }
+    }
+  ],
+  "version" : 2
+}
